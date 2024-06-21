@@ -2,7 +2,8 @@ The following files contain the source code solution for the problem statement o
 
 It contains Mainly three files 
 
-K means clustering 
+K means clustering
+
 Resources optimization algorithm  
 Strategic placement algorithm
 
